@@ -5,7 +5,7 @@ This repository contains all experimental results, figures, tables, and suppleme
 > **DECODE: DEcision tree Capturing Opaque DEcisions**   
 > <span style="font-size: 85%;">**Authors**:   
 > * José Cação, TEMA - Centro de Tecnologia Mecânica e Automação, Universidade de Aveiro
-> * Mário Antunes, IT - Instituto de Telecomunicações, Universidade de Aveiro  [:github:](https://github.com/mariolpantunes)
+> * Mário Antunes, IT [<img src="github-mark.png" width="10">](https://github.com/mariolpantunes) - Instituto de Telecomunicações, Universidade de Aveiro 
 > * José Paulo Santos, TEMA - Centro de Tecnologia Mecânica e Automação, Universidade de Aveiro </span>  
 
 > [!NOTE]  
