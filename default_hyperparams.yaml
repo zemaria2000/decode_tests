@@ -1,0 +1,16 @@
+classification:
+  max_depth: 5
+  imp_threshold: 0.01
+  n_steps: auto
+  adaptive: false
+  min_samples_split: 2
+  min_impurity_decrease: 0.0
+  criterium: 'log_loss'
+regression:
+  max_depth: 5
+  imp_threshold: 0.0
+  n_steps: auto
+  adaptive: false
+  min_samples_split: 2
+  min_impurity_decrease: 0.0
+  criterium: 'mse'

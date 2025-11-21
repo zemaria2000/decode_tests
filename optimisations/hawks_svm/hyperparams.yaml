@@ -1,0 +1,11 @@
+model_name: SVC
+final_res: 1.0
+opt_metric: matthews_corrcoef
+decode_params:
+  max_depth: 5
+  imp_threshold: 0.04999999999999994
+  n_steps: auto
+  adaptive: false
+  min_samples_split: 2
+  min_impurity_decrease: 1.7543885945891089e-06
+  criterium: gini

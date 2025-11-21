@@ -1,0 +1,11 @@
+model_name: LogisticRegression
+final_res: 0.898
+opt_metric: matthews_corrcoef
+decode_params:
+  max_depth: 4
+  imp_threshold: 1.0e-07
+  n_steps: auto
+  adaptive: false
+  min_samples_split: 10
+  min_impurity_decrease: 2.423425998479824e-07
+  criterium: gini

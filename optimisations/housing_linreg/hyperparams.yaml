@@ -1,0 +1,11 @@
+model_name: LinearRegression
+final_res: 0.776
+opt_metric: r2_score
+decode_params:
+  max_depth: 5
+  imp_threshold: 1.208918747951112e-05
+  n_steps: auto
+  adaptive: false
+  min_samples_split: 5
+  min_impurity_decrease: 2.976719661623562e-05
+  criterium: mse

@@ -1,0 +1,11 @@
+model_name: SVR
+final_res: 0.895
+opt_metric: r2_score
+decode_params:
+  max_depth: 5
+  imp_threshold: 0.05
+  n_steps: auto
+  adaptive: false
+  min_samples_split: 2
+  min_impurity_decrease: 2.6268806183429234e-07
+  criterium: mse

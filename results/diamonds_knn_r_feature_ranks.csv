@@ -1,0 +1,10 @@
+,SHAP,LIME,PFI,DECODE,DT
+carat,1,4,1,1,1
+cut,7,7,7,7,6
+color,6,6,6,4,4
+clarity,5,5,5,3,3
+depth,7,7,7,6,6
+table,7,7,7,7,6
+x,4,3,4,2,5
+y,2,1,2,5,2
+z,3,2,3,7,6

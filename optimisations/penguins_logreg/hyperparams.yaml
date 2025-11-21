@@ -1,0 +1,11 @@
+model_name: LogisticRegression
+final_res: 0.914
+opt_metric: matthews_corrcoef
+decode_params:
+  max_depth: 4
+  imp_threshold: 2.7319951567851493e-05
+  n_steps: auto
+  adaptive: false
+  min_samples_split: 2
+  min_impurity_decrease: 0.029181517323732507
+  criterium: log_loss

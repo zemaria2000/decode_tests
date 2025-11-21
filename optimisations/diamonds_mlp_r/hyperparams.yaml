@@ -1,0 +1,11 @@
+model_name: MLPRegressor
+final_res: 0.909
+opt_metric: r2_score
+decode_params:
+  max_depth: 5
+  imp_threshold: 0.00017617091891257818
+  n_steps: auto
+  adaptive: false
+  min_samples_split: 2
+  min_impurity_decrease: 9.441633135303398e-06
+  criterium: mse

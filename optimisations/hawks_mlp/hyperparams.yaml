@@ -1,0 +1,11 @@
+model_name: MLPClassifier
+final_res: 1.0
+opt_metric: matthews_corrcoef
+decode_params:
+  max_depth: 5
+  imp_threshold: 0.05
+  n_steps: auto
+  adaptive: false
+  min_samples_split: 2
+  min_impurity_decrease: 2.842118077336371e-07
+  criterium: gini

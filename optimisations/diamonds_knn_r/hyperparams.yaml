@@ -1,0 +1,11 @@
+model_name: KNeighborsRegressor
+final_res: 0.932
+opt_metric: r2_score
+decode_params:
+  max_depth: 5
+  imp_threshold: 1.0e-07
+  n_steps: auto
+  adaptive: false
+  min_samples_split: 5
+  min_impurity_decrease: 3.67589587992534e-07
+  criterium: mae

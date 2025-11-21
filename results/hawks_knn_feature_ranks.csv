@@ -1,0 +1,9 @@
+,SHAP,LIME,PFI,DECODE,DT
+Time,4,4,4,4,4
+Age,4,4,4,4,4
+Sex,2,1,2,4,1
+Wing,4,2,4,4,4
+Weight,4,3,4,3,4
+Culmen,3,4,3,1,3
+Hallux,4,4,4,4,2
+Tail,1,4,1,2,4
